@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="44" stroke="#8b90a0" stroke-opacity=".45" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M16 60h30m28 0h30" stroke="#8b90a0" stroke-opacity=".45" stroke-width="4"/>
+  <circle cx="60" cy="60" r="12" stroke="#8b90a0" stroke-opacity=".6" stroke-width="4"/>
+  <text x="60" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8b90a0" fill-opacity=".8">?</text>
+</svg>
